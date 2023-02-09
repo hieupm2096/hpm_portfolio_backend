@@ -27,9 +27,6 @@
     "content": {
       "type": "richtext"
     },
-    "intro": {
-      "type": "string"
-    },
     "phone": {
       "type": "string"
     },
@@ -41,6 +38,10 @@
     },
     "email": {
       "type": "email"
+    },
+    "intro": {
+      "type": "richtext",
+      "maxLength": 500
     }
   }
 }
