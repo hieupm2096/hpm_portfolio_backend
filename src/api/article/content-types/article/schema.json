@@ -16,8 +16,8 @@
       "type": "string"
     },
     "description": {
-      "type": "text",
-      "maxLength": 200
+      "type": "string",
+      "maxLength": 500
     },
     "slug": {
       "type": "uid",
